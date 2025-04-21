@@ -7,6 +7,9 @@ public class Principal {
 		Mascotas mascota2 = new Mascotas("bambi", "chihuahua", 1, 2400);
 		Mascotas mascota3 = new Mascotas("burbuja", "maltes", 2, 2300);
 		
+
+
+		
 		//declaramos mi lista 
 		List<Mascotas> lista = new ArrayList<Mascotas>();
 		
